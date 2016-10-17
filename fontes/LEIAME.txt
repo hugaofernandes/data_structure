@@ -1,0 +1,26 @@
+
+
+
+os códigos foram escritos em C. No processador de texto gedit.
+
+
+para executar os códigos no terminal do linux.
+
+
+compilar
+gcc codigo.c -o executavel
+
+
+executar
+./executavel
+
+
+
+
+os arquivos com os tempos são gerados pelo próprio código
+
+
+
+obs. a árvore avl e árvore binária estão no mesmo código.
+
+
